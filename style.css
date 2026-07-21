@@ -8,8 +8,10 @@ body {
 .hp {
   background-color: brown;
   color: white;
-  width: 200px;
+  width: 100%;
+  height: 10%;
   display: flex;
   justify-content: center;
   align-items: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
 }
